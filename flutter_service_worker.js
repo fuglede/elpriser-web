@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "a962da54deccabe7d141e3a9085d25a9",
-"/": "a962da54deccabe7d141e3a9085d25a9",
+const RESOURCES = {"index.html": "588e6a86f7d862b9c27d085d306c491c",
+"/": "588e6a86f7d862b9c27d085d306c491c",
 "favicon-16x16.png": "5be2ab6c3f7f04952ad249b51c93ba01",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
 "canvaskit/skwasm.js": "445e9e400085faead4493be2224d95aa",
@@ -22,20 +22,20 @@ const RESOURCES = {"index.html": "a962da54deccabe7d141e3a9085d25a9",
 "assets/AssetManifest.bin.json": "ab516dfe0590e5897e62a8c156b13ccf",
 "assets/assets/other_prices.json": "85bcebfe6a6116340277fe56a5116d6b",
 "assets/assets/mobilepay.svg": "77eaf04fdc52bec73e819f87979a6957",
-"assets/assets/netselskaber.json": "c28b7d26a0e4be5096c899373bc6fe05",
+"assets/assets/netselskaber.json": "4c659f23c774f0062deac91b1f1aa9e0",
 "assets/AssetManifest.bin": "cb56084a7a8d2543b56a6a8d9f0b765b",
 "assets/NOTICES": "ffe5413c640ec2f33fbf345adc0d4ccd",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/AssetManifest.json": "4bb3f98a33a290a05409c23fd8c8a8e2",
-"version.json": "88b70418c7b1df714a3d3fcc4267f6f3",
+"version.json": "2c9a7b6e1ebea2384b6177397acb74d4",
 "favicon.ico": "0e964e39303dc207e9f49ad8ac316c8a",
 "manifest.json": "7bc0934f0a67e278742c203ff6d0ba2d",
 "android-chrome-512x512.png": "8858eb45cf5bc7b600819ab01375ef9f",
 "apple-touch-icon.png": "a5576e914a9ebd2cc24dbe25936f67fc",
 "android-chrome-192x192.png": "ca8aca749fb7b4fc46757ce0dcae8acf",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
-"main.dart.js": "1acc9594b8ec22fe5b23f95480d50427"};
+"main.dart.js": "60672482aca46488871ce9acfb025e78"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
