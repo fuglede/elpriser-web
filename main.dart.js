@@ -44388,7 +44388,7 @@ A.aqt.prototype={
 $0(){var s=0,r=A.N(t.H),q=this
 var $async$$0=A.O(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:s=2
-return A.J(A.rE(A.e0("https://www.danskenergi.dk/vejledning/nettilslutning/find-netselskab",0,null)),$async$$0)
+return A.J(A.rE(A.e0("https://elnet.dk/nettilslutning/find-netselskab",0,null)),$async$$0)
 case 2:A.nt(q.a,!1).zE(null)
 return A.L(null,r)}})
 return A.M($async$$0,r)},
