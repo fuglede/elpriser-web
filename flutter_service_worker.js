@@ -5,14 +5,14 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"flutter.js": "888483df48293866f9f41d3d9274a779",
 "manifest.json": "7bc0934f0a67e278742c203ff6d0ba2d",
-"index.html": "0d3f84999ad35570d387e040a171f76f",
-"/": "0d3f84999ad35570d387e040a171f76f",
+"index.html": "a76fac330885ba2e0850c2f037c356c7",
+"/": "a76fac330885ba2e0850c2f037c356c7",
 "favicon-32x32.png": "b2524cece7de90cea9a11778fe977845",
 "favicon-16x16.png": "5be2ab6c3f7f04952ad249b51c93ba01",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin.json": "ab516dfe0590e5897e62a8c156b13ccf",
-"assets/assets/other_prices.json": "144ddf63bdfc5585d98a3b157a0b8bb1",
-"assets/assets/netselskaber.json": "cf4ee8043e6e9e8f1544563cbe41e2bd",
+"assets/assets/other_prices.json": "6bb7ad1b2eecd652fde8d6e9edc2766b",
+"assets/assets/netselskaber.json": "911faf30a131b507487d16b139625c98",
 "assets/assets/mobilepay.svg": "77eaf04fdc52bec73e819f87979a6957",
 "assets/fonts/MaterialIcons-Regular.otf": "73fd6af34e6ff00fbeaa6c9be05dc055",
 "assets/NOTICES": "c2a0fac60b3bf13bd48cffc8c7febe4f",
@@ -36,9 +36,9 @@ const RESOURCES = {"flutter.js": "888483df48293866f9f41d3d9274a779",
 "android-chrome-512x512.png": "8858eb45cf5bc7b600819ab01375ef9f",
 "android-chrome-192x192.png": "ca8aca749fb7b4fc46757ce0dcae8acf",
 "favicon.ico": "0e964e39303dc207e9f49ad8ac316c8a",
-"flutter_bootstrap.js": "3a387e38aefc393a84bc4802070f1c5c",
-"version.json": "7073994a5a85723ffb386b7d9f872d52",
-"main.dart.js": "57f8ba79d845a5ff5ac4798a5fb01526"};
+"flutter_bootstrap.js": "c0feab9336d9076f8128e60576c9a1cf",
+"version.json": "89065d2050e46a51a560894c8704e2b5",
+"main.dart.js": "f7b773589030d4a7c0bed98677339ce6"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
